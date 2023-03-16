@@ -1,0 +1,2 @@
+export const USER_DETAILS = 'USER_DETAILS'
+export const CARS_DETAILS = 'CARS_DETAILS'

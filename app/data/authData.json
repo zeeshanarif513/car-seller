@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Zeeshan Arif",
+        "email": "zeeshan@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "name": "Taimoor Aslam",
+        "email": "taimoor@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "name": "Adnan",
+        "email": "adnan@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "name": "Umair Sadeeq",
+        "email": "umair@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "name": "Ali Hamza",
+        "email": "ali@gmail.com",
+        "password": "12345678"
+    }
+]

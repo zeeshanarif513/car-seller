@@ -1,0 +1,34 @@
+[
+    {
+      "category": "sedan",
+      "color": "red",
+      "make": "Honda",
+      "model": "Civic",
+      "registration_number": "AB1234",
+      "year": 2020
+    },
+    {
+      "category": "SUV",
+      "color": "blue",
+      "make": "Toyota",
+      "model": "Highlander",
+      "registration_number": "CD5678",
+      "year": 2019
+    },
+    {
+      "category": "hatchback",
+      "color": "white",
+      "make": "Mazda",
+      "model": "Mazda3",
+      "registration_number": "EF9012",
+      "year": 2022
+    },
+    {
+      "category": "pickup truck",
+      "color": "black",
+      "make": "Ford",
+      "model": "F-150",
+      "registration_number": "GH3456",
+      "year": 2018
+    }
+  ]
